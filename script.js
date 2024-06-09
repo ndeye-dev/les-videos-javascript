@@ -1,20 +1,16 @@
+ // un bloc d'une srtutcure conditionnelle
 
-/*les symboles arythmetiques
-
-= + * % / 
--=, +=, *=, /= , %=
-++, --
  
-modulo pour recuperer le reste ex 5 / 2 (modulo - % = 1) */
+ let name = "yuna";
 
-/* type primitif pour les chaines de caractères 
-int, float, str */
+ /*
+ 
+if ( name === "yuna")
+ [
+    document.write("oui");
+    let number = 6
 
-
-let N = 20;
-
-N = N + 1 ; // a = a + x
-
-document.write(N);
-
-console. log(N)
+    if(number === 6)
+        document.write("Oui");
+]
+*/
