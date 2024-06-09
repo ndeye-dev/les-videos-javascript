@@ -1,16 +1,11 @@
- // un bloc d'une srtutcure conditionnelle
 
- 
- let name = "yuna";
+// type de boucle
 
- /*
- 
-if ( name === "yuna")
- [
-    document.write("oui");
-    let number = 6
 
-    if(number === 6)
-        document.write("Oui");
+let i = 0;
+ while(i < 15)
+    [
+        document.write("AAA")
+        i++
+    
 ]
-*/
